@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fde6fc-8be7-4378-9738-f3b7767e5415" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/div/jajva.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,5 +43,16 @@
       <updated>1658515888897</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
